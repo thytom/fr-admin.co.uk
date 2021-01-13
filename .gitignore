@@ -1,0 +1,7 @@
+# Build/local folders (shouldn't be committed)
+notes/
+build/
+deploy/
+
+# Node.JS Stuff
+node_modules/
