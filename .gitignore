@@ -1,7 +1,7 @@
 # Build/local folders (shouldn't be committed)
 notes/
-build/
-deploy/
+_site/
+_cache/
 
-# Node.JS Stuff
-node_modules/
+# Stack stuff
+.stack-work
