@@ -32,7 +32,7 @@ perfect) level of French. Since their return to the UK in 2012, they have
 continued to maintain French friendships and have been back to visit their
 friends several times and will continue to do so for many years to come. 
 
-Charlie
+# Charlie
 
 When they returned to the UK, complete with their French dog and his passport
 in 2012, they quickly became aware of just how much they had grown as European
