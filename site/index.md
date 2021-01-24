@@ -3,16 +3,13 @@ title: Home
 ---
 <section>
 Welcome to fr-admin.co.uk. We offer French administrative services to anyone
-who lives, works, or regularly visits France. 
+who lives, works, or regularly visits France. We specialise in French
+bureaucracy and understand how the French do business. We are happy to assist
+you with any paperwork you may need or can signpost you in the right direction. 
 
-We are specialists in French bureaucracy and understand how the French tend to do business. We are happy to
-assist you directly with any paperwork you may need to complete or can contact
-agencies on your behalf or sign post you in the right direction. 
-
-We keep up to date with both the UK and French government websites to ensure that the processes you
-are following are correct and up to date.  From helping with residency permits, the French
-healthcare system to enrolling your children into local French schools, we are here to help. 
-
+From helping you with short and long term residency permits and enrolling your
+children into school to the French healthcare system and pet travel, we can
+help. 
 </section>
 <div class="row">
 <div class="col-12 col-sm-6">
