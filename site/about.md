@@ -12,10 +12,10 @@ myriad of confusing paperwork and rules and regulations that formed part of
 this process.
 
 Emma’s unique selling point is her ability to work across many fields at expert
-level in both French and English. Her 25 years’ worth of IT work experience and
-8 years of living and working in France mean that she is able to offer
-excellent administrative services to anyone with either a personal or business
-need both in the UK and France.
+level. Her 25 years’ worth of IT work experience in high profile markets such 
+as Lloyd's of London and 8 years of living and working in France, mean that she is 
+able to offer excellent administrative services to anyone with either a personal 
+or business need in both the UK and France.
 
 # The French Experience
 
@@ -27,7 +27,7 @@ houses, schooled their two sons, taught English to French professionals, and
 assisted other UK expats with their own projects and administrative challenges.
 
 The family were active in all aspects of French life and made many close
-friends which led to them being able to speak a high (but not necessarily
+friends, this led them to being able to speak a high (but not necessarily
 perfect) level of French. Since their return to the UK in 2012, they have
 continued to maintain French friendships and have been back to visit their
 friends several times and will continue to do so for many years to come. 
