@@ -10,7 +10,7 @@ We can help with:
 * Applying for **French healthcare** and the **‘Carte Vitale’**
 * Understanding the **French education system**
 * Understanding the **French banking system**
-* Getting online and setting up your internet connection
+* Getting online and setting up your Internet connection
 * French taxes such as **Tax Fonciére** and **Tax d’Habitation**
 * The **pet travel process**
 * The **French Postal Service**
