@@ -2,7 +2,7 @@
 title: Contact Us
 ---
 
-For free advice or an initial quote please email us at **enquiries@fr-admin.co.uk**.
+For free advice or an initial quote, please email us at **enquiries@fr-admin.co.uk**.
 
 Our quotes are based entirely upon your needs with all costs being up front and reasonable. 
 
