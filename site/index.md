@@ -2,8 +2,7 @@
 title: Home
 ---
 <section>
-Welcome fr-admin.co.uk, French Administration made easy. 
-  
+Welcome fr-admin.co.uk, French Administration made easy.   
 </section>
 <div class="row">
 <div class="col-12 col-sm-6">
