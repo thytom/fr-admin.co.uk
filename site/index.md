@@ -3,8 +3,7 @@ title: Home
 ---
 <section>
 <p>
-Welcome to fr-admin.co.uk. We offer French administrative services to anyone who lives, works, or
-regularly visits France.
+Welcome to fr-admin.co.uk, French Administration made easy.   
 </p>
 </section>
 <div class="row">
@@ -28,11 +27,8 @@ regularly visits France.
 </div>
 </div>
 <section>
-We specialise in French
-bureaucracy and understand how the French do business. We are happy to assist
-you with any paperwork you may need or can signpost you in the right direction. 
-
-From helping you with short and long term residency permits and enrolling your
-children into school to the French healthcare system and pet travel, we can
-help. 
+<p>
+We specialise in French bureaucracy. From helping with short and long term residency permits to the
+French healthcare system and pet travel, we can help.
+</p>
 </section>
