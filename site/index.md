@@ -2,13 +2,15 @@
 title: Home
 ---
 <section>
-Welcome to fr-admin.co.uk. We offer French administrative services to anyone
-who lives, works, or regularly visits France. 
+<p>
+Welcome to fr-admin.co.uk. We offer French administrative services to anyone who lives, works, or
+regularly visits France.
+</p>
 </section>
 <div class="row">
 <div class="col-12 col-sm-6">
 <div class="card mx-auto mb-3">
-<img class="card-img-top" style="object-fit:cover" src="res/nurse.jpg" alt="Picture of a nurse." height="200px">
+<img class="card-img-top" style="object-fit:cover" src="res/medical.jpg" alt="Picture of a nurse." height="200px">
 <div class="card-body">
 <h5 class="card-title">French Healthcare</h5>
 <p class="card-text">You must ensure your health needs are covered; we can help with that.</p>

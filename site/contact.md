@@ -1,8 +1,8 @@
 ---
-title: Contact Us
+title: Contact
 ---
 
-For free advice or an initial quote, please email us at **enquiries@fr-admin.co.uk**.
+For free advice or an initial quote, please email us at <a href="mailto:enquiries@fr-admin.co.uk">enquiries@fr-admin.co.uk</a>.
 
 Our quotes are based entirely upon your needs, with all costs being up front and reasonable. 
 
