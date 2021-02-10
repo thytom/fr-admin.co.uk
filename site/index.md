@@ -28,7 +28,7 @@ Welcome to fr-admin.co.uk, French Administration made easy.
 </div>
 <section>
 <p>
-We specialise in French bureaucracy. From helping you to understand the 90 day rule and long term residency permits to the
+We specialise in French bureaucracy. From helping you to understand the 90 day rule and long term residency permits, to the
 French healthcare system and pet travel, we can help.
 </p>
 </section>
