@@ -6,7 +6,8 @@ title: Services and Payments
 
 Our services include but are not limited to:
 
-* Applying for **French residency** or **Long and Short Term Visas** 
+* **Document translation services** both French to English and English to French 
+* Advice on when you may need to apply for **French residency** or a **Long Term Visa** 
 * **Exporting a vehicle** from the UK into France
 * Dealing with **housebuilding paperwork**
 * Applying for **French healthcare** and the **‘Carte Vitale’**
@@ -14,11 +15,12 @@ Our services include but are not limited to:
 * Understanding the **French banking system**
 * Getting online and setting up your internet connection
 * French taxes such as **Tax Fonciére** and **Tax d’Habitation**
-* The **pet travel process**
+* The **pet travel process** and new **Animal Health Checks**
 * The **French Postal Service**
 * Getting involved in your local community
-* **Document translation services** from French to English
+* New French Customs **Rules and regulations**
 * **Learning the language**
+* What you need to **Drive in France**
 
 # Payment
 
