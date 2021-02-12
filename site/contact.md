@@ -7,3 +7,7 @@ For free advice or an initial quote, please email us at <a href="mailto:enquirie
 If your enquiry is urgent please call us on **+44 7788267229** outside the UK and **07788267229** from inside the UK. 
 
 We will respond to you within 24 hours. 
+
+## Useful Links for Second Home Owners
+
+* https://www.gov.uk/coronavirus - UK Government page on current Coronavirus regulations.
