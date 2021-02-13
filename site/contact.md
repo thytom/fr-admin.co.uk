@@ -75,9 +75,9 @@ We will get back to you within 24 hours.
 * **French Expat Newspaper** Connexion - https://www.connexionfrance.com/
 * **French Property.Com** Information on Residency Permits for France - https://www.french-property.com/news/french_property/brexit_warp_residency_applications/
 * **The Local journal** Information about Residency Permits following the withdrawal agreement - https://www.thelocal.fr/20181114/common-questions-about-getting-a-carte-de-sjour-residency-permit
-
-
-
+* **Voisins Voices** An official newsletter for the British Community Overseas - https://www.gov.uk/government/publications/voisins-voices-a-newsletter-for-the-british-community-in-france
+* **Schengen Visa Info** Rights of Second Home Owners in France - https://www.schengenvisainfo.com/news/rights-of-british-second-home-owners-in-france-from-january-1-2021/
+* **Schengen Visa Info** for UK residents wishing to spend more than 90 days in France - https://www.schengenvisainfo.com/
 
 
 
