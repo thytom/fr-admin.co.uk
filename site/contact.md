@@ -38,7 +38,7 @@ We will get back to you within 24 hours.
 * **General Health Insurance Cards link** - https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/?fbclid=IwAR1nUtx5pkoE3KI76jL0-RaZb19cq2_EiD-uX9tGxrOZSqs33KlpKlPUvto
 * **Supporting documents for anyone intending to stay longer than 90 days** - https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0399&rid=1#d1e32-28-1
 
-## Useful Links for Business Travellers
+## Useful Links for Business Travellers and Cross Border Workers
 
 * **French Diplomat Site** - https://www.diplomatie.gouv.fr/fr/venir-en-france/visiter-la-france/
 * **General Health Insurance Card** - https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/?fbclid=IwAR1nUtx5pkoE3KI76jL0-RaZb19cq2_EiD-uX9tGxrOZSqs33KlpKlPUvto
@@ -47,6 +47,7 @@ We will get back to you within 24 hours.
 * **UK Govt General information for France** - https://www.gov.uk/world/france 
 * **French Customs site with business links and import/export information** - https://www.douane.gouv.fr/particuliers/vous-voyagez/informations-generales-voyages
 * **UK Govt business advice site** - https://www.gov.uk/world/organisations/department-for-international-trade-france
+* **Cross Border Worker information** Detailed guide for those who live in France but work in the UK - https://www.remaininfrance.fr/workingacrossbordersdropdownpage
 
 ## Useful Links for Drivers
 
@@ -78,6 +79,7 @@ We will get back to you within 24 hours.
 * **Voisins Voices** An official newsletter for the British Community Overseas - https://www.gov.uk/government/publications/voisins-voices-a-newsletter-for-the-british-community-in-france
 * **Schengen Visa Info** Rights of Second Home Owners in France - https://www.schengenvisainfo.com/news/rights-of-british-second-home-owners-in-france-from-january-1-2021/
 * **Schengen Visa Info** for UK residents wishing to spend more than 90 days in France - https://www.schengenvisainfo.com/
+* **Online Campaign Site for UK citizens living in France Prior to 31st December 2020** https://www.remaininfrance.fr/
 
 
 
