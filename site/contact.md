@@ -7,8 +7,7 @@ For free advice or an initial quote, please email us at <a href="mailto:enquirie
 If your enquiry is urgent please call us on **+44 7788267229** outside the UK and **07788267229** from inside the UK. 
 
 In the meantime, please see our useful links below which we hope may be able to assist you. We regularly update and add to this list
-as rules and regulations may be subject to the change, both in the UK and France. Please note, we are not looking at COVID-19 restrictions
-at present as they change on a weekly basis! 
+as rules and regulations may be subject to the change, both in the UK and France. 
 
 We will get back to you within 24 hours. 
 
