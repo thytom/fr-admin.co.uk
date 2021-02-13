@@ -57,7 +57,7 @@ We will get back to you within 24 hours.
 ## Useful Links for Pet Owners
 
 * **UK Government advice** on what's needed to bring your pet into the UK - https://www.gov.uk/bring-pet-to-great-britain 
-**Royal Vetinary College** information about the new Animal Health Checks post Brexit - https://www.rvc.ac.uk/small-animal-vet/general-practice/services/animal-health-certificate
+* **Royal Vetinary College** information about the new Animal Health Checks post Brexit - https://www.rvc.ac.uk/small-animal-vet/general-practice/services/animal-health-certificate
 * **UK Government advice** on taking your pet to an EU Country - https://www.gov.uk/taking-your-pet-abroad/travelling-to-an-eu-country-or-northern-ireland
 
 ## Useful Links for those seeking Long Stay Visas, Permanent Residency or French Nationality
