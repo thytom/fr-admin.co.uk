@@ -14,10 +14,8 @@ We will get back to you within 24 hours.
 
 ## Coronavirus Updates
 
-* **UK Government France travel advice page ** https://www.gov.uk/foreign-travel-advice/france
-* 
-
-
+* **UK Government France travel advice page** - https://www.gov.uk/foreign-travel-advice/france
+* **French Government Coronavirus restrictions page** - https://www.gouvernement.fr/en/coronavirus-covid-19
 
 ## Useful Links for Holiday Makers
 
@@ -28,6 +26,8 @@ We will get back to you within 24 hours.
 * **General Health Insurance Cards link** - https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/?fbclid=IwAR1nUtx5pkoE3KI76jL0-RaZb19cq2_EiD-uX9tGxrOZSqs33KlpKlPUvto
 * **French Customs, post Brexit information** - https://www.douane.gouv.fr/fiche/citizens-and-travellers-get-prepared-brexit?fbclid=IwAR0coi3NiWALlmuZZckpSAyVRBr9mKpWqGrGHPPy5otrQTcZT8PlCNENDGk
 * **Emergency information** on UK Govt site if you have an urgent problem whilst in France - https://www.gov.uk/world/france
+* **Duty Free information from UK Govt** - https://www.gov.uk/government/news/duty-free-extended-to-the-eu-from-january-2021
+* **Bringing goods into France from outside the EU** - https://www.douane.gouv.fr/demarche/vous-rapportez-du-tabac-de-lalcool-ou-dautres-marchandises-achetees-hors-de-lunion
 
 ## Useful Links for Second Home Owners
 
