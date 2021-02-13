@@ -80,6 +80,10 @@ We will get back to you within 24 hours.
 * **Schengen Visa Info** Rights of Second Home Owners in France - https://www.schengenvisainfo.com/news/rights-of-british-second-home-owners-in-france-from-january-1-2021/
 * **Schengen Visa Info** for UK residents wishing to spend more than 90 days in France - https://www.schengenvisainfo.com/
 * **Online Campaign Site for UK citizens living in France Prior to 31st December 2020** https://www.remaininfrance.fr/
+* **Orange French Telephone & Internet provider** https://www.orange.com/en - English emergency telephone : 0033(0)69 36 39 00
+* **EDF Electricity** https://www.edfenergy.com/ - English emergency telephone : 0033(0)69 36 63 83
+* **CPAM Caisse Primaire D'assurance Maladie** - French Healthcare System - : 0811 36 36 46
+* **Crisis Line** - English Speaking in France : 01 46 21 46 46 : (3pm - 11pm 7 days a week)
 
 
 
