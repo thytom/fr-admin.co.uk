@@ -77,6 +77,8 @@ We will get back to you within 24 hours.
 
 ## Good sources of advice and information
 
+* **British Embassy in Paris** - https://www.gov.uk/world/france?fbclid=IwAR0_Tdjtm6QABpD7AjsEiJV4nYAdDG2xSKLHswfaG-AxSTdPU-YLmwEeRDo
+* **British Embassy in Paris Facebook Page** - https://www.facebook.com/ukinfrance/
 * **General French Advice** from the Ministry of Europe and Foreign Affairs - https://www.diplomatie.gouv.fr/fr/venir-en-france/
 * **French Expat Newspaper** Connexion - https://www.connexionfrance.com/
 * **The Franco-British network** Information for UK nationals living and working in the Dordogne - https://francobritishnetwork.fr/
