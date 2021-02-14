@@ -4,12 +4,11 @@ title: Contact
 
 For free advice or an initial quote, please email us at <a href="mailto:enquiries@fr-admin.co.uk">enquiries@fr-admin.co.uk</a>.
 
-If your enquiry is urgent please call us on **+44 7788267229** outside the UK and **07788267229** from inside the UK. 
+If your enquiry is urgent please call us on **07788267229** and we will get back to you within 24 hours. 
 
 In the meantime, please see our useful links below which we hope may be able to assist you. We regularly update and add to this list
-as rules and regulations may be subject to the change, both in the UK and France. 
+as rules and regulations may be subject to change, both in the UK and France. 
 
-We will get back to you within 24 hours. 
 
 ## Coronavirus Updates
 
