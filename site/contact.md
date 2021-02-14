@@ -52,6 +52,8 @@ We will get back to you within 24 hours.
 * **UK Govt business advice site** - https://www.gov.uk/world/organisations/department-for-international-trade-france
 * **Cross Border Worker information** Detailed guide for those who live in France but work in the UK - https://www.remaininfrance.fr/workingacrossbordersdropdownpage
 * **Link to information about the S1 health form for Cross Border workers** https://www.remaininfrance.fr/workersentitledtoans1
+* **Link to Free Movement Card on French Customs Site for goods which you regularly travel with** - https://www.douane.gouv.fr/demarche/vous-souhaitez-obtenir-une-carte-de-libre-circulation-des-marchandises
+* **French Customs site with access to Fees, charges & Duty Free information** - https://www.service-public.fr/particuliers/vosdroits/N230
 
 ## Useful Links for Drivers
 
