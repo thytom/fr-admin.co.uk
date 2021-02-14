@@ -35,11 +35,9 @@ We will get back to you within 24 hours.
 * **French Customs, post Brexit** information - https://www.douane.gouv.fr/fiche/citizens-and-travellers-get-prepared-brexit?fbclid=IwAR0coi3NiWALlmuZZckpSAyVRBr9mKpWqGrGHPPy5otrQTcZT8PlCNENDGk
 * **French Embassy in London**, aimed at individual travellers and families - https://uk.ambafrance.org/-English-
 * Useful information about **rules and the Schengen Area Visas**, please note, if plan to visit France for less than 90 days, **UK nationals do not need a Visa** - https://eeas.europa.eu/sites/eeas/files/frequently_asked_questions_en.pdf
-* **General Health Insurance Cards link** - https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/?fbclid=IwAR1nUtx5pkoE3KI76jL0-RaZb19cq2_EiD-uX9tGxrOZSqs33KlpKlPUvto
 * **Supporting documents for anyone intending to stay longer than 90 days** - https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0399&rid=1#d1e32-28-1
 * **UK Post office advice & customs declarations forms following Brexit** - https://www.postoffice.co.uk/brexit
 * **Good site with information on importing goods into France** - https://www.douane.gouv.fr/fiche/transferring-your-primary-residence-france
-
 
 ## Useful Links for Business Travellers and Cross Border Workers
 
