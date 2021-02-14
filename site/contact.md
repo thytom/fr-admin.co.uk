@@ -48,6 +48,7 @@ We will get back to you within 24 hours.
 * **French Customs site with business links and import/export information** - https://www.douane.gouv.fr/particuliers/vous-voyagez/informations-generales-voyages
 * **UK Govt business advice site** - https://www.gov.uk/world/organisations/department-for-international-trade-france
 * **Cross Border Worker information** Detailed guide for those who live in France but work in the UK - https://www.remaininfrance.fr/workingacrossbordersdropdownpage
+* **Link to information about the S1 health form for Cross Border workers** https://www.remaininfrance.fr/workersentitledtoans1
 
 ## Useful Links for Drivers
 
@@ -74,6 +75,7 @@ We will get back to you within 24 hours.
 
 * **General French Advice** from the Ministry of Europe and Foreign Affairs - https://www.diplomatie.gouv.fr/fr/venir-en-france/
 * **French Expat Newspaper** Connexion - https://www.connexionfrance.com/
+* **The Franco-British network** Information for UK nationals living and working in the Dordogne - https://francobritishnetwork.fr/
 * **French Property.Com** Information on Residency Permits for France - https://www.french-property.com/news/french_property/brexit_warp_residency_applications/
 * **The Local journal** Information about Residency Permits following the withdrawal agreement - https://www.thelocal.fr/20181114/common-questions-about-getting-a-carte-de-sjour-residency-permit
 * **Voisins Voices** An official newsletter for the British Community Overseas - https://www.gov.uk/government/publications/voisins-voices-a-newsletter-for-the-british-community-in-france
