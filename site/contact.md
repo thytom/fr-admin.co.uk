@@ -59,6 +59,7 @@ We will get back to you within 24 hours.
 * **Emergency information** on UK Govt site if you have an urgent problem whilst in France - https://www.gov.uk/world/france
 * **Good page on UK Post Office website explaining what you need to drive in EU** - https://www.postoffice.co.uk/brexit/driving
 * **Good article on importing a vehicle into France** - https://www.frenchentree.com/living-in-france/importing-a-uk-vehicle-and-registering-it-in-france/
+* **Good article on owning a car in France** - https://www.propertyguides.com/france/news/buying-owning-car-france-10-crucial-facts/
 
 
 ## Useful Links for Pet Owners
