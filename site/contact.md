@@ -37,6 +37,7 @@ We will get back to you within 24 hours.
 * Useful information about **rules and the Schengen Area Visas**, please note, if plan to visit France for less than 90 days, **UK nationals do not need a Visa** - https://eeas.europa.eu/sites/eeas/files/frequently_asked_questions_en.pdf
 * **General Health Insurance Cards link** - https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/?fbclid=IwAR1nUtx5pkoE3KI76jL0-RaZb19cq2_EiD-uX9tGxrOZSqs33KlpKlPUvto
 * **Supporting documents for anyone intending to stay longer than 90 days** - https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0399&rid=1#d1e32-28-1
+* **UK Post office advice & customs declarations forms following Brexit** - https://www.postoffice.co.uk/brexit
 
 ## Useful Links for Business Travellers and Cross Border Workers
 
@@ -54,6 +55,7 @@ We will get back to you within 24 hours.
 
 * **Good link with summary of what you need to drive abroad** https://www.ageas.co.uk/green-card-information/
 * **Emergency information** on UK Govt site if you have an urgent problem whilst in France - https://www.gov.uk/world/france
+* **Good page on UK Post Office website explaining what you need to drive in EU** - https://www.postoffice.co.uk/brexit/driving
 
 
 ## Useful Links for Pet Owners
@@ -61,6 +63,7 @@ We will get back to you within 24 hours.
 * **UK Government advice** on what's needed to bring your pet into the UK - https://www.gov.uk/bring-pet-to-great-britain 
 * **Royal Vetinary College** information about the new Animal Health Checks post Brexit - https://www.rvc.ac.uk/small-animal-vet/general-practice/services/animal-health-certificate
 * **UK Government advice** on taking your pet to an EU Country - https://www.gov.uk/taking-your-pet-abroad/travelling-to-an-eu-country-or-northern-ireland
+* **Good page on UK Post Office explaining what you need to travel with your pet** - https://www.postoffice.co.uk/brexit/pets
 
 ## Useful Links for those seeking Long Stay Visas, Permanent Residency or French Nationality
 
@@ -69,7 +72,8 @@ We will get back to you within 24 hours.
 * **French Citizenship advice** - https://www.francerights.org/french-citizenship.html
 * **French Visa Wizard** - https://france-visas.gouv.fr/en_US/web/france-visas/ai-je-besoin-d-un-visa (please note the French Visa system looks to be down at present, probably due to Coronavirus restrictions which states that all none French nationals must not enter unless they have an urgent reason to do so). 
 * **180 day campaign** for those campaigning for an extension to the current 90 day limit - https://sites.google.com/view/180daysvisafree/campaign-info/surveys?authuser=0&fbclid=IwAR1Lygs9L8jIzdJxPMmUNC6qFSY68lNpFEdunk8pOSL2IefYOSUsTPvtr6Y#h.71fcy7qyj33i 
-* **Withdrawal Agreement Residency (WARP) Permit** information site - https://contacts-demarches.interieur.gouv.fr/brexit/brexit-residence-permit-application/
+* **Downloadable flowchart covering different scenarios when applying for Withdrawal Agreement Residency Permits** - https://accueil.contacts-demarches.interieur.gouv.fr/media/uploads/2020/10/15/tableau_cas_d_usages_brexit_v5_07092020_en.pdf?fbclid=IwAR3ws9hoXU2xJJerFEWuaRFK3oWNM-4tPNOp3Uq0mKhSoEbbLnZ85M6IKoI 
+* **Withdrawal Agreement Residency (WARP) Permit** application site - https://contacts-demarches.interieur.gouv.fr/brexit/brexit-residence-permit-application/
 
 ## Good sources of advice and information
 
@@ -86,6 +90,8 @@ We will get back to you within 24 hours.
 * **EDF Electricity** https://www.edfenergy.com/ - English emergency telephone : 0033(0)69 36 63 83
 * **CPAM Caisse Primaire D'assurance Maladie** - French Healthcare System - : 0811 36 36 46
 * **Crisis Line** - English Speaking in France : 01 46 21 46 46 : (3pm - 11pm 7 days a week)
+* **UK Post Office Brexit information** - https://www.postoffice.co.uk/brexit
+* **Emergency Telephone for ambulance in France** - 112
 
 
 
