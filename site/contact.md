@@ -97,7 +97,7 @@ We will get back to you within 24 hours.
 * **CPAM Caisse Primaire D'assurance Maladie** - French Healthcare System - : 0811 36 36 46
 * **Crisis Line** - English Speaking in France : 01 46 21 46 46 : (3pm - 11pm 7 days a week)
 * **UK Post Office Brexit information** - https://www.postoffice.co.uk/brexit
-* **Emergency Telephone for ambulance in France** - 112
+* **Emergency numbers and amenities in france** - https://www.connexionfrance.com/index.php/Practical/Everyday-Life/how-to-contact-French-police-firemen-helplines-businesses-embassies
 
 
 
