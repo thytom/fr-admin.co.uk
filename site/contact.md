@@ -13,7 +13,7 @@ as rules and regulations may be subject to change, both in the UK and France.
 ## Coronavirus Updates
 
 * **UK Government France travel advice page** - <https://www.gov.uk/foreign-travel-advice/france>
-* **French Government Coronavirus restrictions page** -
+* **French Govt Coronavirus advice page** -
   <https://www.gouvernement.fr/en/coronavirus-covid-19>
 
 ## Useful Links for Holiday Makers
@@ -45,11 +45,11 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://www.gov.uk/transition?utm_campaign=transition_p4&utm_medium=cpc&utm_source=seg&utm_content=__act0&gclid=COe0us6Ym-4CFU1SGwodsu4PFg>
 * **General Health Insurance Cards link** -
   <https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/?fbclid=IwAR1nUtx5pkoE3KI76jL0-RaZb19cq2_EiD-uX9tGxrOZSqs33KlpKlPUvto>
-* **French Customs, post Brexit** information -
+* **French Customs, post Brexit** -
   <https://www.douane.gouv.fr/fiche/citizens-and-travellers-get-prepared-brexit?fbclid=IwAR0coi3NiWALlmuZZckpSAyVRBr9mKpWqGrGHPPy5otrQTcZT8PlCNENDGk>
 * **French Embassy in London**, aimed at individual travellers and families -
   <https://uk.ambafrance.org/-English->
-* Useful information about **rules and the Schengen Area Visas**, please note, if plan to visit
+* Useful information about **rules and the Schengen Area Visas**, please note, if you plan to visit
   France for less than 90 days, **UK nationals do not need a Visa** -
   <https://eeas.europa.eu/sites/eeas/files/frequently_asked_questions_en.pdf>
 * **Supporting documents for anyone intending to stay longer than 90 days** -
@@ -73,11 +73,11 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://www.douane.gouv.fr/particuliers/vous-voyagez/informations-generales-voyages>
 * **UK Govt business advice site** -
   <https://www.gov.uk/world/organisations/department-for-international-trade-france>
-* **Cross Border Worker information** Detailed guide for those who live in France but work in the UK
-  - <https://www.remaininfrance.fr/workingacrossbordersdropdownpage>
+* **Cross Border Worker information** Detailed guide for those who live in France but work in the UK -
+  <https://www.remaininfrance.fr/workingacrossbordersdropdownpage>
 * **Link to information about the S1 health form for Cross Border workers**
   <https://www.remaininfrance.fr/workersentitledtoans1>
-* **Link to Free Movement Card on French Customs Site for goods which you regularly travel with** -
+* **Link to Free Movement Card on French Customs Site for work items which you regularly travel with**
   <https://www.douane.gouv.fr/demarche/vous-souhaitez-obtenir-une-carte-de-libre-circulation-des-marchandises>
 * **French Customs site with access to Fees, charges & Duty Free information** -
   <https://www.service-public.fr/particuliers/vosdroits/N230>
@@ -88,7 +88,7 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://www.ageas.co.uk/green-card-information/>
 * **Emergency information** on UK Govt site if you have an urgent problem whilst in France -
   <https://www.gov.uk/world/france>
-* **Good page on UK Post Office website explaining what you need to drive in EU** -
+* **Good page on UK Post Office website** explaining what you need to drive in EU -
   <https://www.postoffice.co.uk/brexit/driving>
 * **Good article on importing a vehicle into France** -
   <https://www.frenchentree.com/living-in-france/importing-a-uk-vehicle-and-registering-it-in-france/>
@@ -102,15 +102,15 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://www.gov.uk/bring-pet-to-great-britain>
 * **Royal Vetinary College** information about the new Animal Health Checks post Brexit -
   <https://www.rvc.ac.uk/small-animal-vet/general-practice/services/animal-health-certificate>
-* **UK Government advice** on taking your pet to an EU Country -
+* **UK Government advice** on taking your pet to an EU Country
   <https://www.gov.uk/taking-your-pet-abroad/travelling-to-an-eu-country-or-northern-ireland>
 * **Good page on UK Post Office explaining what you need to travel with your pet** -
   <https://www.postoffice.co.uk/brexit/pets>
 
-## Useful Links for those seeking Long Stay Visas, Permanent Residency or French Nationality
+## Useful Links for the WARP, Long Stay Visas, Permanent Residency or French Nationality
 
 * **French Residency application site** -
-  <https://contacts-demarches.interieur.gouv.fr/brexit/brexit-demande-titre-sejour/
+  <https://contacts-demarches.interieur.gouv.fr/brexit/brexit-demande-titre-sejour/>
 * **French Visa application site** -
   <https://www.diplomatie.gouv.fr/fr/venir-en-france/demander-un-visa-pour-la-france/>
 * **French Citizenship advice** - <https://www.francerights.org/french-citizenship.html>
@@ -118,8 +118,8 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://france-visas.gouv.fr/en_US/web/france-visas/ai-je-besoin-d-un-visa>
 * **180 day campaign** for those campaigning for an extension to the current 90 day limit -
   <https://sites.google.com/view/180daysvisafree/campaign-info/surveys?authuser=0&fbclid=IwAR1Lygs9L8jIzdJxPMmUNC6qFSY68lNpFEdunk8pOSL2IefYOSUsTPvtr6Y#h.71fcy7qyj33i>
-* **Downloadable flowchart covering different scenarios when applying for Withdrawal Agreement
-  Residency Permits** -
+* **Downloadable flowchart** covering different scenarios when applying for Withdrawal Agreement
+  Residency Permits -
   <https://accueil.contacts-demarches.interieur.gouv.fr/media/uploads/2020/10/15/tableau_cas_d_usages_brexit_v5_07092020_en.pdf?fbclid=IwAR3ws9hoXU2xJJerFEWuaRFK3oWNM-4tPNOp3Uq0mKhSoEbbLnZ85M6IKoI>
 * **Withdrawal Agreement Residency (WARP) Permit** application site -
   <https://contacts-demarches.interieur.gouv.fr/brexit/brexit-residence-permit-application/>
@@ -140,11 +140,11 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://www.thelocal.fr/20181114/common-questions-about-getting-a-carte-de-sjour-residency-permit>
 * **Voisins Voices** An official newsletter for the British Community Overseas -
   <https://www.gov.uk/government/publications/voisins-voices-a-newsletter-for-the-british-community-in-france>
-* **Schengen Visa Info** Rights of Second Home Owners in France -
+* **Schengen Visa Info** Rights of Second Home Owners in France
   <https://www.schengenvisainfo.com/news/rights-of-british-second-home-owners-in-france-from-january-1-2021/>
 * **Schengen Visa Info** for UK residents wishing to spend more than 90 days in France -
   <https://www.schengenvisainfo.com/>
-* **Online Campaign Site for UK citizens living in France Prior to 31st December 2020**
+* **Online Campaign Site** for UK citizens living in France Prior to 31st December 2020
   <https://www.remaininfrance.fr/>
 * **Orange French Telephone & Internet provider** <https://www.orange.com/en> - English emergency
   telephone : 0033(0)69 36 39 00>
