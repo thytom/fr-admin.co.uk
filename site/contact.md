@@ -56,10 +56,9 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0399&rid=1#d1e32-28-1>
 * **UK Post office advice & customs declarations forms following Brexit** -
   <https://www.postoffice.co.uk/brexit>
-* **Good site with information on importing goods into France** -
-  <https://www.douane.gouv.fr/fiche/transferring-your-primary-residence-france>
 * **Good site with information about French Taxation on any income you earn in France** - <https://www.charleshamer.co.uk/french-property-rental-tax-returns.aspx>
 * **Paying French Taxes Online** - <https://www.impots.gouv.fr>
+* **Good French Customs information for British travellers** - <https://www.douane.gouv.fr/dossier/trouble-free-travel-french-customs>
 
 ## Useful Links for Business Travellers and Cross Border Workers
 
