@@ -38,7 +38,7 @@ as rules and regulations may be subject to change, both in the UK and France.
 * **Bringing goods into France from outside the EU** -
   <https://www.douane.gouv.fr/demarche/vous-rapportez-du-tabac-de-lalcool-ou-dautres-marchandises-achetees-hors-de-lunion>
 
-## Useful Links for Second Home Owners
+## Useful Links for Gite, Holiday home and Second Home Owners
 
 * **UK Govt Brexit checking guide**, walks you through a set of Yes/No questions to give you the
   answers you might need -
@@ -58,6 +58,7 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://www.postoffice.co.uk/brexit>
 * **Good site with information on importing goods into France** -
   <https://www.douane.gouv.fr/fiche/transferring-your-primary-residence-france>
+* **Good site with information about French Taxation on any income you earn in France** - https://www.charleshamer.co.uk/french-property-rental-tax-returns.aspx
 
 ## Useful Links for Business Travellers and Cross Border Workers
 
