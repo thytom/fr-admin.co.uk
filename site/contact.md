@@ -109,7 +109,9 @@ as rules and regulations may be subject to change, both in the UK and France.
 
 ## Useful Links for the WARP, Long Stay Visas, Permanent Residency or French Nationality
 
-* **French Residency application site** -
+* **Clear UK Govt advice on different residency routes for those already living in France** 
+  https://www.gov.uk/government/publications/france-register-your-residency/living-in-france-register-your-residency?                 fbclid=IwAR11FLvZjXeTqjUoduddZZdILuYQGpPog4SPkN878WvIqtcSkf0XJHT0dhk
+  **French Residency application site** -
   <https://contacts-demarches.interieur.gouv.fr/brexit/brexit-demande-titre-sejour/>
 * **French Visa application site** -
   <https://www.diplomatie.gouv.fr/fr/venir-en-france/demander-un-visa-pour-la-france/>
