@@ -125,6 +125,7 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://accueil.contacts-demarches.interieur.gouv.fr/media/uploads/2020/10/15/tableau_cas_d_usages_brexit_v5_07092020_en.pdf?fbclid=IwAR3ws9hoXU2xJJerFEWuaRFK3oWNM-4tPNOp3Uq0mKhSoEbbLnZ85M6IKoI>
 * **Withdrawal Agreement Residency (WARP) Permit** application site -
   <https://contacts-demarches.interieur.gouv.fr/brexit/brexit-residence-permit-application/>
+* **Register of official translators in France** "Traducteur agréé" - https://www.service-public.fr/particuliers/vosdroits/F12956?lang=fr
 
 ## Good sources of advice and information
 
