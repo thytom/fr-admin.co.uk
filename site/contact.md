@@ -58,7 +58,8 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://www.postoffice.co.uk/brexit>
 * **Good site with information on importing goods into France** -
   <https://www.douane.gouv.fr/fiche/transferring-your-primary-residence-france>
-* **Good site with information about French Taxation on any income you earn in France** - https://www.charleshamer.co.uk/french-property-rental-tax-returns.aspx
+* **Good site with information about French Taxation on any income you earn in France** - <https://www.charleshamer.co.uk/french-property-rental-tax-returns.aspx>
+* **Paying French Taxes Online** - <impots.gouv.fr>
 
 ## Useful Links for Business Travellers and Cross Border Workers
 
@@ -126,7 +127,7 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://accueil.contacts-demarches.interieur.gouv.fr/media/uploads/2020/10/15/tableau_cas_d_usages_brexit_v5_07092020_en.pdf?fbclid=IwAR3ws9hoXU2xJJerFEWuaRFK3oWNM-4tPNOp3Uq0mKhSoEbbLnZ85M6IKoI>
 * **Withdrawal Agreement Residency (WARP) Permit** application site -
   <https://contacts-demarches.interieur.gouv.fr/brexit/brexit-residence-permit-application/>
-* **Register of official translators in France** "Traducteur agréé" - https://www.service-public.fr/particuliers/vosdroits/F12956?lang=fr
+* **Register of official translators in France** "Traducteur agréé" - <https://www.service-public.fr/particuliers/vosdroits/F12956?lang=fr>
 
 ## Good sources of advice and information
 
