@@ -59,7 +59,7 @@ as rules and regulations may be subject to change, both in the UK and France.
 * **Good site with information on importing goods into France** -
   <https://www.douane.gouv.fr/fiche/transferring-your-primary-residence-france>
 * **Good site with information about French Taxation on any income you earn in France** - <https://www.charleshamer.co.uk/french-property-rental-tax-returns.aspx>
-* **Paying French Taxes Online** - <impots.gouv.fr>
+* **Paying French Taxes Online** - <https://www.impots.gouv.fr>
 
 ## Useful Links for Business Travellers and Cross Border Workers
 
