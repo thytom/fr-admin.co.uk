@@ -108,10 +108,10 @@ as rules and regulations may be subject to change, both in the UK and France.
 * **Good page on UK Post Office explaining what you need to travel with your pet** -
   <https://www.postoffice.co.uk/brexit/pets>
 
-## Useful Links for the WARP, Long Stay Visas, Permanent Residency or French Nationality
+## Useful Links for the WARP, Long Stay Visas, Permanent Residency, French Nationality or Returning to live in the UK
 
-* **Clear UK Govt advice on different residency routes for those already living in France** 
-  <https://www.gov.uk/government/publications/france-register-your-residency/living-in-france-register-your-residency?                 fbclid=IwAR11FLvZjXeTqjUoduddZZdILuYQGpPog4SPkN878WvIqtcSkf0XJHT0dhk>
+* **Clear UK Govt advice on different residency routes for those already living in France** - 
+  <https://www.gov.uk/government/publications/france-register-your-residency/living-in-france-register-your-residency?                 fbclid=IwAR11FLvZjXeTqjUoduddZZdILuYQGpPog4SPkN878WvIqtcSkf0XJHT0dhk/>
   **French Residency application site** -
   <https://contacts-demarches.interieur.gouv.fr/brexit/brexit-demande-titre-sejour/>
 * **French Visa application site** -
@@ -127,6 +127,7 @@ as rules and regulations may be subject to change, both in the UK and France.
 * **Withdrawal Agreement Residency (WARP) Permit** application site -
   <https://contacts-demarches.interieur.gouv.fr/brexit/brexit-residence-permit-application/>
 * **Register of official translators in France** "Traducteur agréé" - <https://www.service-public.fr/particuliers/vosdroits/F12956?lang=fr>
+* **Transferring your main residence back to the UK and the TOR1 form** - <https://www.gov.uk/guidance/transfer-of-residence-to-great-britain>
 
 ## Good sources of advice and information
 
