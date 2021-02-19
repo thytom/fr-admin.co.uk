@@ -128,6 +128,8 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://contacts-demarches.interieur.gouv.fr/brexit/brexit-residence-permit-application/>
 * **Register of official translators in France** "Traducteur agréé" - <https://www.service-public.fr/particuliers/vosdroits/F12956?lang=fr>
 * **Transferring your main residence back to the UK and the TOR1 form** - <https://www.gov.uk/guidance/transfer-of-residence-to-great-britain>
+* **Transferring your main residence to France and importing goods and furniture** - 
+* https://www.douane.gouv.fr/demarche/vous-souhaitez-connaitre-les-franchises-applicables-lors-du-transfert-de-votre-residence
 
 ## Good sources of advice and information
 
