@@ -112,7 +112,7 @@ as rules and regulations may be subject to change, both in the UK and France.
 
 * **Clear UK Govt advice on different residency routes for those already living in France** - 
  <https://www.gov.uk/government/publications/france-register-your-residency/living-in-france-register-your-residency>
-  **French Residency application site** -
+* **French Residency application site** -
   <https://contacts-demarches.interieur.gouv.fr/brexit/brexit-demande-titre-sejour/>
 * **French Visa application site** -
   <https://www.diplomatie.gouv.fr/fr/venir-en-france/demander-un-visa-pour-la-france/>
