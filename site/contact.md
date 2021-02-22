@@ -154,8 +154,8 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://www.remaininfrance.fr/>
 * **Orange French Telephone & Internet provider** <https://www.orange.com/en> - English emergency
   telephone : 0033(0)69 36 39 00>
-* **EDF Electricity** <https://www.edfenergy.com/> - English emergency telephone : 0033(0)69 36 63
-  83
+* **EDF Electricity** <https://www.edfenergy.com/> - English emergency telephone : 0033 9 69 36 63
+  83 - Hours Mon-Fri 9-5
 * **CPAM Caisse Primaire D'assurance Maladie** - French Healthcare System - : 0811 36 36 46
 * **Crisis Line** - English Speaking in France : 01 46 21 46 46 : (3pm - 11pm 7 days a week)
 * **UK Post Office Brexit information** - <https://www.postoffice.co.uk/brexit>
