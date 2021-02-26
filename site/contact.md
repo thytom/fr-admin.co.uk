@@ -58,7 +58,8 @@ as rules and regulations may be subject to change, both in the UK and France.
   <https://www.postoffice.co.uk/brexit>
 * **Good site with information about French Taxation on any income you earn in France** - <https://www.charleshamer.co.uk/french-property-rental-tax-returns.aspx>
 * **Paying French Taxes Online** - <https://www.impots.gouv.fr>
-* **French Customs PDF with full breakdown of allowable foodstuffs** - <https://www.douane.gouv.fr/dossier/trouble-free-travel-french-customs>
+* **Good French Customs Travel Guide** - <https://www.douane.gouv.fr/dossier/trouble-free-travel-french-customs>
+* **Link to French customs PDF with breakdown of allowable goods and foodstuffs** - <https://www.douane.gouv.fr/sites/default/files/uploads/files/Documentations-Brochures/Langues-etrangeres/Trouble-free-travel-with-french-customs.pdf?fbclid=IwAR1NI7cMJeR5GEXeJoDSoJeJfAM6GlfTwfx_KDLMTcm4fDFCEuJ7Ux40g78>
 
 ## Useful Links for Business Travellers and Cross Border Workers
 
